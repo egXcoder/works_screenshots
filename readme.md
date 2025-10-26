@@ -2,7 +2,7 @@
 
 
 ## POS
-![My photo](/documents/Screenshot_1.png)
+![My photo](/pos/Screenshot_1.png)
 
 
 ## Documents
